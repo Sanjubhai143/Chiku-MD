@@ -151,7 +151,7 @@ Miku.ev.on('group-participants.update', async (anu) => {
                 mikutext = `
 Hello baby @${WAuserName.split("@")[0]},
 
-I am *chiku*, Welcome to ${metadata.subject}.
+I am *Pagal*, Welcome to ${metadata.subject}.
 
 *Group Description:*
 ${metadata.desc}
